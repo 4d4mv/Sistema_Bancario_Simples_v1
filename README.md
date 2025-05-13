@@ -1,7 +1,7 @@
 # Sistema_Bancario_Simples
 
 ## Descrição
-Sistema bancário desenvolvido em Python para gerenciar depósitos, saques e extrato como parte do Bootcamp Suzano para Desenvolvedor Python pela Digital Innovation One.
+Sistema bancário desenvolvido em Python para gerenciar depósitos, saques e extrato como parte do Bootcamp Suzano para Desenvolvedor Python pela Digital Innovation One na versão 1.0 e implementação de melhorias, na versão 2.0.
 
 ## Histórico de Versões
 - **v1.0 (Sistema_bancario_v1.py)**:
